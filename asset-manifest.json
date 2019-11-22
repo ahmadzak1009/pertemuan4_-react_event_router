@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/pertemuan3_react_state_props/static/css/main.e4189e5c.chunk.css",
-    "main.js": "/pertemuan3_react_state_props/static/js/main.17c0d76f.chunk.js",
-    "main.js.map": "/pertemuan3_react_state_props/static/js/main.17c0d76f.chunk.js.map",
-    "runtime-main.js": "/pertemuan3_react_state_props/static/js/runtime-main.8bdd7412.js",
-    "runtime-main.js.map": "/pertemuan3_react_state_props/static/js/runtime-main.8bdd7412.js.map",
-    "static/css/2.833dd627.chunk.css": "/pertemuan3_react_state_props/static/css/2.833dd627.chunk.css",
-    "static/js/2.0bcb494d.chunk.js": "/pertemuan3_react_state_props/static/js/2.0bcb494d.chunk.js",
-    "static/js/2.0bcb494d.chunk.js.map": "/pertemuan3_react_state_props/static/js/2.0bcb494d.chunk.js.map",
-    "index.html": "/pertemuan3_react_state_props/index.html",
-    "precache-manifest.e341ec98756eb550c8c632516f796241.js": "/pertemuan3_react_state_props/precache-manifest.e341ec98756eb550c8c632516f796241.js",
-    "service-worker.js": "/pertemuan3_react_state_props/service-worker.js",
-    "static/css/2.833dd627.chunk.css.map": "/pertemuan3_react_state_props/static/css/2.833dd627.chunk.css.map",
-    "static/css/main.e4189e5c.chunk.css.map": "/pertemuan3_react_state_props/static/css/main.e4189e5c.chunk.css.map",
-    "static/media/21cineplex.jpg": "/pertemuan3_react_state_props/static/media/21cineplex.42e94da3.jpg",
-    "static/media/banner-desktop.jpg": "/pertemuan3_react_state_props/static/media/banner-desktop.8e64f61d.jpg",
-    "static/media/bpn.jpg": "/pertemuan3_react_state_props/static/media/bpn.b45fbf7f.jpg",
-    "static/media/republika.jpg": "/pertemuan3_react_state_props/static/media/republika.f3fb506b.jpg"
+    "main.css": "/pertemuan4_-react_event_router/static/css/main.e4189e5c.chunk.css",
+    "main.js": "/pertemuan4_-react_event_router/static/js/main.62dbb9d0.chunk.js",
+    "main.js.map": "/pertemuan4_-react_event_router/static/js/main.62dbb9d0.chunk.js.map",
+    "runtime-main.js": "/pertemuan4_-react_event_router/static/js/runtime-main.0ca20f82.js",
+    "runtime-main.js.map": "/pertemuan4_-react_event_router/static/js/runtime-main.0ca20f82.js.map",
+    "static/css/2.833dd627.chunk.css": "/pertemuan4_-react_event_router/static/css/2.833dd627.chunk.css",
+    "static/js/2.0bcb494d.chunk.js": "/pertemuan4_-react_event_router/static/js/2.0bcb494d.chunk.js",
+    "static/js/2.0bcb494d.chunk.js.map": "/pertemuan4_-react_event_router/static/js/2.0bcb494d.chunk.js.map",
+    "index.html": "/pertemuan4_-react_event_router/index.html",
+    "precache-manifest.871dc32ffb259879df102e570494b1a4.js": "/pertemuan4_-react_event_router/precache-manifest.871dc32ffb259879df102e570494b1a4.js",
+    "service-worker.js": "/pertemuan4_-react_event_router/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/pertemuan4_-react_event_router/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.e4189e5c.chunk.css.map": "/pertemuan4_-react_event_router/static/css/main.e4189e5c.chunk.css.map",
+    "static/media/21cineplex.jpg": "/pertemuan4_-react_event_router/static/media/21cineplex.42e94da3.jpg",
+    "static/media/banner-desktop.jpg": "/pertemuan4_-react_event_router/static/media/banner-desktop.8e64f61d.jpg",
+    "static/media/bpn.jpg": "/pertemuan4_-react_event_router/static/media/bpn.b45fbf7f.jpg",
+    "static/media/republika.jpg": "/pertemuan4_-react_event_router/static/media/republika.f3fb506b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bdd7412.js",
+    "static/js/runtime-main.0ca20f82.js",
     "static/css/2.833dd627.chunk.css",
     "static/js/2.0bcb494d.chunk.js",
     "static/css/main.e4189e5c.chunk.css",
-    "static/js/main.17c0d76f.chunk.js"
+    "static/js/main.62dbb9d0.chunk.js"
   ]
 }
